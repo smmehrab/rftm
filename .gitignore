@@ -1,0 +1,3 @@
+# Ignore all .vscode folders
+.vscode/
+ignore.md

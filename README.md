@@ -60,7 +60,7 @@ There are 25 simulation cases.
 
     ```bash
     cd ns-allinone-3.33/ns-3.33
-    ./waf configure --disable-werror --enable-examples --enable-tests --build-profile=optimized
+    ./waf configure --disable-werror --enable-examples --enable-tests --build-profile=debug
     ./waf build
     ```
 
